@@ -1,6 +1,5 @@
 import './styles.css';
 import { Product } from './types';
-import ProductsList from './ProductsList';
 import { formatPrice } from './helpers';
 
 type Props = {
